@@ -1,0 +1,91 @@
+TERMES DE REFERENCE POUR LE RECRUTEMENT D'UN EXPERT JUNIOR POUR LE DÉVELOPPEMENT DU SITE WEB ET L'OPTIMISATION DES CANAUX DE COMMUNICATION DIGITAUX
+
+
+I-	CONTEXTE ET JUSTIFICATION
+
+L'Association de Développement d’Agongo (ADA) est une organisation laïque, apolitique et à but non lucratif régie par la loi n°2025-19 du 22 juillet 2025 au Bénin. Elle a pour mission de promouvoir le bien-être socio-économique, l'éducation de qualité, la protection de l'environnement, la santé et la solidarité au sein du quartier Agongo à Sèmè-Podji.
+Conformément aux dispositions de l'Article 14 (Recours aux compétences extérieures) et de l'Article 34 (Communication officielle) du règlement intérieur de l'association, ADA prévoit le déploiement d’outils de communication modernes, incluant un site web officiel ainsi que des comptes sur les réseaux sociaux. C’est dans ce cadre que les présents termes de référence sont élaborés pour solliciter les services d’un expert junior spécialisé afin d’assurer la conception et l’interactivité de sa vitrine numérique.
+
+II-	OBJECTIFS DE LA MISSION
+
+
+2.1- Objectif général :
+
+Concevoir, développer et mettre en ligne le site web officiel de l'Association de Développement d’Agongo (ADA) et configurer ses canaux sociaux (Facebook et TikTok) de manière professionnelle et interactive pour maximiser sa visibilité.
+
+2.2- Objectifs spécifiques :
+
+o	Développer un site web moderne, sécurisé, administrable (CMS de type WordPress ou similaire) et responsive (adapté aux mobiles et tablettes) ;
+o	Créer et paramétrer de façon professionnelle les pages Facebook et TikTok de l’association ;
+o	Assurer l'interactivité et l'interconnexion (passerelles) entre le site web et les réseaux sociaux ;
+o	Former l'équipe de l'association (le Responsable des Partenariats et de la Communication) pour la gestion autonome des contenus. 
+o	
+
+
+
+
+
+III-	RÉSULTATS ATTENDUS ET FONCTIONNALITÉS REQUISES
+
+
+3.1- Architecture et fonctionnalités du site internet :
+
+Le site devra comporter, au minimum, l'arborescence et les options suivantes :
+1.	Accueil / Landing Page : Présentation dynamique avec un design reflétant l'identité visuelle de l'ADA (Charte graphique basée sur le logo multicolore de l'association) ;
+
+2.	Qui sommes-nous ? : Historique, Vision, Devise (« Développement, Solidarité et Labeur ») et mot du Président ;
+
+3.	Textes fondamentaux : Consultation et possibilité de téléchargement des Statuts et du Règlement Intérieur ;
+
+4.	Domaines prioritaires d'interventions : Sections dédiées aux axes de l'association (Éducation, Environnement/Assainissement, Santé, Solidarité, AGR, etc.) ;
+
+5.	Nos projets : Vitrine présentant les projets en cours de planification, de réalisation ou exécutés ;
+
+6.	Rapports d'activités & Rapports financiers : Espace de transparence pour la publication des rapports annuels validés conformément aux textes réglementaires ;
+
+7.	Publications (Espace Médias) : Fil d'actualité continu, galeries photos, vidéos, communiqués officiels et avis de réunions ;
+
+8.	Contactez-nous & Adhésion : Formulaire de contact, coordonnées physiques/téléphoniques, adresse email et intégration d'un formulaire de demande d'adhésion numérique (téléchargeable ou à remplir en ligne).
+
+3.2- Intégration des Réseaux Sociaux (Facebook et TikTok) :
+
+1.	Création/Optimisation graphique des pages Facebook et TikTok aux couleurs de l'ADA ;
+2.	Mise en place d'outils interactifs (boutons d'action, messagerie instantanée automatisée pour répondre aux questions d'adhésion) ;
+3.	Intégration d'un flux (Widget Social/Feed) sur le site internet pour afficher directement les dernières publications vidéos TikTok et posts Facebook.
+
+IV-	PROFIL DU CONSULTANT / EXPERT JUNIOR
+
+Le candidat recherché doit être un professionnel junior de nationalité béninoise ou résidant au Bénin, répondant au profil suivant :
+ 
+
+
+
+
+
+
+Formation : Diplôme (Bac+2 minimum) en Informatique, Développement Web, Infographie, Communication Digitale ou tout autre domaine équivalent.
+Compétences techniques :
+
+	Maîtrise éprouvée des CMS (WordPress, Joomla, etc.) ou frameworks de développement web courants ;
+	Compétences en design d'interface (UI/UX) et maîtrise des outils de création de contenus visuels (Canva, Photoshop ou Illustrator pour l'adaptation du logo) ;
+	Excellente maîtrise des algorithmes, de la configuration et de la modération sur Facebook et TikTok.
+
+Qualités personnelles : Rigueur, créativité, sens de l'écoute, et capacité à travailler en étroite collaboration avec une équipe associative. Une expérience préalable avec des ONG locales ou associations de développement sera un atout.
+
+V-	DURÉE ET DÉROULEMENT DE LA MISSION
+
+La durée totale de la mission est estimée à 20 jours à compter de la date de signature du contrat, répartie comme suit :
+	Phase 1 : Cadrage, collecte des textes de l'association, validation de la maquette graphique et création des pages sociales (5 jours) ;
+	Phase 2 : Développement technique du site web, intégration des modules interactifs (Facebook / TikTok) et insertion des premiers contenus (10 jours) ;
+	Phase 3 : Phase de test, corrections, mise en ligne définitive et formation du Responsable de la Communication de l'ADA (5 jours).
+
+VI-	SUPERVISION ET VALIDATION
+
+Le/La Consultant(e) Junior travaillera sous la supervision directe du Bureau Exécutif (BE) de l'association, représenté par le Secrétaire Exécutif. L’administration courante des canaux numériques développés sera transférée au Responsable des Partenariats et de la Communication de l'association, sous le contrôle hiérarchique défini par l'Article 35 du règlement intérieur.
+
+VII-	DOSSIER DE CANDIDATURE
+Les experts juniors intéressés doivent soumettre un dossier comprenant :
+	Une lettre de motivation adressée au Secrétaire Exécutif de l'ADA ;
+	Un Curriculum Vitae (CV) détaillé mettant en avant les projets web similaires réalisés ;
+	Un Portfolio (liens fonctionnels) de sites internet déjà conçus et/ou de pages de réseaux sociaux gérées de façon professionnelle ;
+	Une proposition méthodologique et financière succincte (incluant le coût de la prestation, l'hébergement, et le nom de domaine en .bj ou .org).
